@@ -1,0 +1,7 @@
+.local/
+*.log
+hero-*.png
+hero-study.md
+.openai/
+.env
+.env.*
